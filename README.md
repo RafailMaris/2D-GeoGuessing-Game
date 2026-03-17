@@ -153,7 +153,7 @@ Includes maze traversal, item pick-up, portal unlock, time scoring, leaderboard,
 
 ---
 
-## 🤝 Contribution / extension ideas
+## 🤝 Contribution / extension ideas (for future updates) - act as my personal TODO
 
 - add smoother animation & camera (camera follow)
 - dynamic map loading, infinite world, mouse camera
@@ -163,11 +163,3 @@ Includes maze traversal, item pick-up, portal unlock, time scoring, leaderboard,
 
 ---
 
-## 📜 License
-
-Add your license badge or text here (MIT/Apache etc.).
-(Current project did not have explicit license file in repository snippet.)
-
----
-
-> This README is built from your existing code and asset layout; no behavior assumptions outside repository contents.
