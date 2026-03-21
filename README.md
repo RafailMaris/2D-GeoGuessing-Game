@@ -122,7 +122,13 @@ Includes maze traversal, item pick-up, portal unlock, time scoring, leaderboard,
 - `public`: DB scripts for setup
 
 ---
-
+## Sneak peak of the game
+![Log in](image-2.png)
+![Register](image-3.png)
+![Map image](image-4.png)
+![Exit reached](image-5.png)
+![Guessing game](image-6.png)
+![Score report](image-7.png)
 ## 🧪 Developer notes
 
 - Map tile collision loaded from DB in `Map.preloadImages(...)`
